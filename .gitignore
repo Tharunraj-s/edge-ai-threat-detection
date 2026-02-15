@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# YOLO training outputs
+runs/
+
+# OS files
+.DS_Store
+Thumbs.db
